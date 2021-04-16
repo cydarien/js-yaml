@@ -1,4 +1,4 @@
-JS-YAML - YAML 1.2 parser / writer for JavaScript
+JS-YAML - YAML 1.2 parser / writer for JavaScript  
 =================================================
 
 [![CI](https://github.com/nodeca/js-yaml/workflows/CI/badge.svg?branch=master)](https://github.com/nodeca/js-yaml/actions)
